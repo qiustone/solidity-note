@@ -1,0 +1,2 @@
+# solidity-note
+Learn Solidity
